@@ -4,7 +4,7 @@
 ### Git은 파일 자체가 아니라 변경사항을 의미있는 버전 단위로 관리한다.
 
 #### git status before git add ...: Changes not staged for commit:
-#### git status before git add ...: Changes to be committed:
+#### git status after git add ...: Changes to be committed:
 
 #### git log --oneline: 커밋 기록을 확인
 
